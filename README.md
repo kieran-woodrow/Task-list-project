@@ -3,4 +3,5 @@ This is a simple task list project that makes use of dynamic div creation and de
 The project has 2 files: 'index.html' and 'app.js'
 
 # How to run
- Download all files and just open index.html
+- Download all files
+- Open index.html
