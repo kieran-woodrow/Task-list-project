@@ -59,5 +59,5 @@ Use any browser. I prefer Chrome.
 
 ![add task](https://github.com/kieran-woodrow/Task-list-project/blob/main/Assets/Screenshot%202024-06-05%20at%2007.25.01.png)
 
-[remove task](https://github.com/kieran-woodrow/Task-list-project/blob/main/Assets/Screenshot%202024-06-05%20at%2007.24.29.png)
+![remove task](https://github.com/kieran-woodrow/Task-list-project/blob/main/Assets/Screenshot%202024-06-05%20at%2007.24.29.png)
 
